@@ -5,6 +5,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .idea/*
 <<<<<<< HEAD
 node_modules
@@ -37,3 +38,10 @@ node_modules
 =======
 node_modules
 >>>>>>> 50f1885... modified gitignore
+=======
+.idea/*
+node_modules
+=======
+.idea/*
+>>>>>>> 59fabb4... modified gitignore
+>>>>>>> 6159e7f... modified gitignore
