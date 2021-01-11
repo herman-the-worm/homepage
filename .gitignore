@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 .idea/*
+<<<<<<< HEAD
 node_modules
 =======
 <<<<<<< HEAD
@@ -33,3 +34,6 @@ node_modules
 =======
 .idea/*
 >>>>>>> 3985598... rebase
+=======
+node_modules
+>>>>>>> 50f1885... modified gitignore
