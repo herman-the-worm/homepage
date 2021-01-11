@@ -1,5 +1,6 @@
 .DS_Store
 <<<<<<< HEAD
+<<<<<<< HEAD
 .idea/*
 node_modules
 =======
@@ -9,3 +10,6 @@ node_modules
 =======
 .idea/*
 >>>>>>> 3985598... rebase
+=======
+.idea/*
+>>>>>>> e51cd71... modified gitignore
