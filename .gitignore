@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .idea/*
 <<<<<<< HEAD
 node_modules
@@ -45,3 +46,7 @@ node_modules
 .idea/*
 >>>>>>> 59fabb4... modified gitignore
 >>>>>>> 6159e7f... modified gitignore
+=======
+.idea/*
+node_modules
+>>>>>>> 113009e... removed unused experience post
