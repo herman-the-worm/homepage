@@ -1,3 +1,11 @@
 .DS_Store
+<<<<<<< HEAD
 .idea/*
 node_modules
+=======
+<<<<<<< HEAD
+.idea/*
+node_modules
+=======
+.idea/*
+>>>>>>> 3985598... rebase
