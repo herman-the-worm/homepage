@@ -7,6 +7,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e354272... rebase
 .idea/*
 <<<<<<< HEAD
 node_modules
@@ -54,4 +57,14 @@ node_modules
 =======
 node_modules
 >>>>>>> 46c2940... fixed css errors... so boring
+<<<<<<< HEAD
 >>>>>>> 426c7bd... fixed css errors... so boring
+=======
+=======
+<<<<<<< HEAD
+.idea/*
+node_modules
+=======
+.idea/*
+>>>>>>> 3985598... rebase
+>>>>>>> e354272... rebase
