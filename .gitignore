@@ -12,6 +12,7 @@
 node_modules
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 .idea/*
 node_modules
 =======
@@ -50,3 +51,7 @@ node_modules
 .idea/*
 node_modules
 >>>>>>> 113009e... removed unused experience post
+=======
+node_modules
+>>>>>>> 46c2940... fixed css errors... so boring
+>>>>>>> 426c7bd... fixed css errors... so boring
