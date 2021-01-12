@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .idea/*
 node_modules
 =======
@@ -21,3 +22,7 @@ node_modules
 =======
 .idea/*
 >>>>>>> 62dff49... modified gitignore
+=======
+.idea/*
+node_modules
+>>>>>>> 46c2940... fixed css errors... so boring
